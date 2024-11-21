@@ -13,6 +13,7 @@ int main()
 
     std::cout << "Pick your second fighter\n";
     monster_b = PickAMonster();
+
 }
 
 
